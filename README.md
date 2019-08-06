@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.com/loyola-open-source-course/planner-frontend.svg?branch=master)](https://travis-ci.com/loyola-open-source-course/planner-frontend)
 
 ## Mission Statement
-This tool is useful for planning and organizing people work.
+Our goal is to make planning and organizing tasks easier.
 
 ## Code of Conduct
 See full version at [CODE_OF_CONDUCT.md](https://github.com/loyola-open-source-course/planner-backend/blob/master/CODE_OF_CONDUCT.md)
